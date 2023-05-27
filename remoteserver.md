@@ -1,3 +1,7 @@
+layout: page
+title: "LINUX REMOTE SERVER"
+permalink: /manual/remote-server/
+
 # Set a Linux remote server
 
 How to connect from a macbook pro to a home linux machine?
